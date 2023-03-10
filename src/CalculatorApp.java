@@ -8,7 +8,7 @@ public class CalculatorApp extends JFrame implements ActionListener {
     private JButton addButton, subtractButton, multiplyButton, divideButton, equalsButton, clearButton;
     private JTextField inputField;
     private double num1, num2, result;
-    private String operator;
+    private String operator;//lala
 
     public CalculatorApp() {
         setTitle("Calculator App");
